@@ -1,0 +1,6 @@
+c:\users\wwstudent\documents\visual studio 2017\Projects\insertionSort\insertionSort\bin\Debug\insertionSort.exe.config
+c:\users\wwstudent\documents\visual studio 2017\Projects\insertionSort\insertionSort\bin\Debug\insertionSort.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\insertionSort\insertionSort\bin\Debug\insertionSort.pdb
+c:\users\wwstudent\documents\visual studio 2017\Projects\insertionSort\insertionSort\obj\Debug\insertionSort.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\insertionSort\insertionSort\obj\Debug\insertionSort.pdb
+c:\users\wwstudent\documents\visual studio 2017\Projects\insertionSort\insertionSort\obj\Debug\insertionSort.csprojResolveAssemblyReference.cache
